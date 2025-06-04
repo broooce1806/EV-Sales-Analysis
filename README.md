@@ -7,7 +7,8 @@ An interactive Power BI dashboard for analyzing electric vehicle (EV) data by ci
 
 This project visualizes electric vehicle data, providing actionable insights into adoption trends, manufacturer shares, and city-level distributions.
 
-![Electric Vehicle Dashboard](images/dashboard.png)
+![image](https://github.com/user-attachments/assets/654429d3-4ad5-4479-84c4-6f2ae41b9bb6)
+
 
 ---
 
@@ -25,9 +26,8 @@ This project visualizes electric vehicle data, providing actionable insights int
 ## Data
 
 - **Source**: Public dataset for educational/demo purposes.
-- **File:** [`Electric_Vehicle_Population_Data.csv`](data/Electric_Vehicle_Population_Data.csv)
+- **File:** 
 
-> Dataset downloaded from [Washington State Open Data](https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/7fwk-7f3z) (replace link if you got it elsewhere).
 
 ## How to Use
 
@@ -37,12 +37,10 @@ This project visualizes electric vehicle data, providing actionable insights int
 
 ## About
 
-**Created by:** [Your Name]  
+**Created by:** Shaiprashaanth  
 **Tools:** Power BI, Microsoft Excel, CSV
 
-## Screenshots
 
-![EV Dashboard](images/dashboard.png)
 
 ## License
 
